@@ -3,4 +3,4 @@ The Procyon Operating System
 
 Coming Soon
 
-[ProcyonOS Community Organization](https://github.com/ProcyonOS)
+[ProcyonOS New Repo](https://github.com/ProcyonisSoftware/ProcyonOS)
